@@ -1,4 +1,4 @@
-// File: /home/emmanuel-daniel/Desktop/ORION WEB lead gen /ORION-web/app/layout.tsx
+// File: /home/emmanuel-daniel/ORION-WEB-AGENCY/app/layout.tsx
 import * as entry from '../../../app/layout.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
